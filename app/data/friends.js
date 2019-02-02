@@ -1,7 +1,7 @@
 var friendsList = [
     {
       name: "Stacy Keibler",
-      photo: "../images/stacyKeibler.jpg",
+      photo: "./images/stacyKeibler.jpg",
       scores: [
         "4",
         "5",
@@ -17,7 +17,7 @@ var friendsList = [
     },
     {
       name: "Gail Kim",
-      photo: "../images/gailKim.jpg",
+      photo: "./images/gailKim.jpg",
       scores: [
         "3",
         "2",
@@ -33,7 +33,7 @@ var friendsList = [
     },
     {
       name: "AJ Lee",
-      photo: "../images/ajLee.jpg",
+      photo: "./images/ajLee.jpg",
       scores: [
         "5",
         "5",
@@ -49,7 +49,7 @@ var friendsList = [
     },
     {
       name: "Lisa Marie Varon",
-      photo: "../images/lisaMarieVaron.jpg",
+      photo: "./images/lisaMarieVaron.jpg",
       scores: [
         "1",
         "3",
@@ -65,7 +65,7 @@ var friendsList = [
     },
     {
       name: "Amy Dumas",
-      photo: "../images/amyDumas.jpg",
+      photo: "./images/amyDumas.jpg",
       scores: [
         "2",
         "5",
